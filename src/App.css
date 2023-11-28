@@ -1,0 +1,58 @@
+/* google fonst */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body,
+button,
+input,
+textarea {
+    font-family: "Poppins", sansa-serif;
+    font-size: 1rem;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+/* ---reusable Css classes--- */
+.section {
+    padding: 6rem 0 2rem;
+}
+
+.section__title {
+    font-size: 2rem;
+    color: hsl(0, 0%, 20%);
+    
+
+}
+
+.section__subtitle {
+    display: block;
+    font-size: 0.875rem;
+    margin-bottom: 1rem;
+}
+
+.section__title,
+.section__subtitle {
+    text-align: center;
+}
+
+.grid {
+    /* display: grid;  cambiaba el nav__menu*/
+    gap: 0.5rem;
+}
+.container {
+    max-width: 968px;
+    margin-left: auto;
+    margin-right: auto;
+}
