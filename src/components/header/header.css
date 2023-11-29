@@ -5,7 +5,6 @@
     left: 0;
 }
 
-
 .nav__list {
     list-style: none;
 }
@@ -17,7 +16,6 @@
     align-items: center;
     column-gap: 1rem;
     background-color: rgba(255, 255, 255, 0.918);
-    /* justify-content: space-around; */
 }
 
 .nav__logo,
@@ -141,8 +139,6 @@
     }
 }
 
-
-
 /*For small devices*/
 @media screen and (max-width: 350px) {
     .nav__menu {
@@ -152,9 +148,6 @@
     .nav__list {
         column-gap: 0;
     }
-
-
-
 
     .icon__img {
         visibility: hidden;

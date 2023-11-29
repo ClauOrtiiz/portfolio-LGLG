@@ -19,7 +19,6 @@ textarea {
     font-size: 1rem;
 }
 
-
 a {
     text-decoration: none;
 }
@@ -32,8 +31,6 @@ a {
 .section__title {
     font-size: 2rem;
     color: hsl(0, 0%, 20%);
-    
-
 }
 
 .section__subtitle {
@@ -48,9 +45,9 @@ a {
 }
 
 .grid {
-    /* display: grid;  cambiaba el nav__menu*/
     gap: 0.5rem;
 }
+
 .container {
     max-width: 968px;
     margin-left: auto;

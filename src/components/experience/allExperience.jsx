@@ -10,7 +10,6 @@ export const Allexperience = () => {
             <div className=" allexperience__info">
 
                 <div className="allexperience__box ">
-                    {/* <i className="bx bx-badge-check" ></i> */}
                     <h3 className="project-section__title">Moonshot partners, Senior Software Engineer</h3>
                     <span className="section__subtitle">October 2021 - Present</span>
                     <ul className="allexperience-list">
@@ -46,7 +45,6 @@ export const Allexperience = () => {
                 </div>
 
                 <div className="allexperience__box ">
-                    {/* <i className="bx bx-badge-check" ></i> */}
                     <h3 className="project-section__title">Zoluxiones, Backend Developer</h3>
                     <span className="section__subtitle">February 2021 - October 2021</span>
                     <ul className="experience-list">
@@ -78,7 +76,6 @@ export const Allexperience = () => {
                 </div>
 
                 <div className="allexperience__box ">
-                    {/* <i className="bx bx-badge-check" ></i> */}
                     <h3 className="project-section__title">Tecsup, Software Developer </h3>
                     <span className="section__subtitle">January 2018 - January 2021</span>
                     <ul className="experience-list">

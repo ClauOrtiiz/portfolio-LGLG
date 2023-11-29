@@ -4,7 +4,7 @@ import './App.css';
 import { Header } from './components/header/header';
 import { Home } from './components/home/home';
 import { About } from './components/about/about';
-// import { Skills } from './componentes/skills/skills';
+import { Project } from './components/projects/projects';
 import { Contact } from './components/contact/contact';
 import { Footer } from './components/footer/footer';
 import { Experience } from './components/experience/experience';
@@ -16,7 +16,7 @@ export default function App() {
             <main className='main'>
                 <Home />
                 <About />
-                {/* <Skills /> */}
+                <Project />
                 <Experience />
                 <Contact />
                 <Footer />

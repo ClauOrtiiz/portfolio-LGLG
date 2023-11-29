@@ -23,7 +23,7 @@ export const Contact = () => {
                         </div>
 
                         <div className="contact__card">
-                        <i className='bx bxl-linkedin-square contact__card-icon'></i>
+                            <i className='bx bxl-linkedin-square contact__card-icon'></i>
                             <h3 className="contact__card-title">LinkedIn</h3>
                             <span className="contact__card-data">luigilizares</span>
 

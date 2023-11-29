@@ -26,16 +26,12 @@ export const Header = () => {
                                 <i className="uil uil-user nav__icon"></i> About me
                             </a>
                         </li>
-                        {/* <li className="nav__item">
-                            <a href="#skills" className="nav__link">
-                                <i className="uil uil-file-alt nav__icon"></i> Skills
+
+                        <li className="nav__item">
+                            <a href="#project" className="nav__link">
+                                <i className="uil uil-briefcase-alt nav__icon"></i> Project
                             </a>
-                        </li> */}
-                        {/* <li className="nav__item">
-                            <a href="#services" className="nav__link">
-                                <i className="uil uil-briefcase-alt nav__icon"></i> Servicios
-                            </a>
-                        </li> */}
+                        </li>
                         <li className="nav__item">
                             <a href="#experience" className="nav__link">
                                 <i className="uil uil-scenery nav__icon"></i> Experience

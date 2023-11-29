@@ -10,7 +10,6 @@ export const Home = () => {
                 <div className="home__content grid">
                     <div className="home__img"></div>
                     <Data />
-                    
                 </div>
             </div>
         </section>
